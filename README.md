@@ -12,7 +12,7 @@ This is the Arduino code for an ESP8266 used to create a wake-up light with the 
 * Beeping as a failsafe wake-up alarm and audio feedback
 * A hidden morse-code message as an easter egg 
 	
-Please check out the full project at https://www.edusteinhorst.com/a-diy-internet-aware-smartphone-controlled-wake-up-light/
+Please check out the full project at https://www.edusteinhorst.com/building-a-smartphone-controlled-wake-up-light/
 
 ## Disclaimer
 
