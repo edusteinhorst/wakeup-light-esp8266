@@ -24,7 +24,7 @@ This was a Christmas gift to my lovely girlfriend. You can read about it on the 
 
 ## Installation
 
-Please check the details at https://www.edusteinhorst.com/a-diy-internet-aware-smartphone-controlled-wake-up-light/
+Please check the details at https://www.edusteinhorst.com/building-a-smartphone-controlled-wake-up-light/
 
 ## Usage
 
